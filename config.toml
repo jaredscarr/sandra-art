@@ -1,6 +1,6 @@
-baseurl = "/"
+baseurl = "https://main.d28xbhxymnypmx.amplifyapp.com/"
 languageCode = "en-us"
-theme = "/themes/hello-friend"
+theme = "hello-friend"
 paginate = 5
 
 [params]

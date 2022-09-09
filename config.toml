@@ -1,6 +1,6 @@
-baseurl = "https://jaredscarr.github.io"
+baseurl = "/"
 languageCode = "en-us"
-theme = "hello-friend"
+theme = "/themes/hello-friend"
 paginate = 5
 
 [params]

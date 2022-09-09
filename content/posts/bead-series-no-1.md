@@ -1,7 +1,7 @@
 ---
 title: "Bead Portrait Series No. 1"
 date: 2022-09-08T10:31:38-07:00
-draft: true
+draft: false
 cover: "/images/bead-portrait-1.jpg"
 coverAlt: "Bead Portrait on Altoid Tin No. 1"
 ---

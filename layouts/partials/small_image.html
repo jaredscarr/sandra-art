@@ -1,0 +1,12 @@
+<figure class="post-small-image">
+{{ if .Params.UseRelativeSmallImage }}
+    <img src="{{ (printf "%s%s" .Permalink .Params.SmallImage ) }}" alt="{{ .Params.SmallImageAlt | plainify | default .Title }}"/>
+{{ else }}
+    <img src="{{ .Params.SmallImage | absURL }}" alt="{{ .Params.SmallImageAlt | plainify | default .Title }}"/>
+{{ end }}
+
+{{ if .Params.SmallCaption }}
+    <figcaption class="center">{{ .Params.SmallImageCaption | markdownify }}</figcaption>
+{{ end }}
+</figure>
+  

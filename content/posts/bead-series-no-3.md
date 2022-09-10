@@ -1,7 +1,7 @@
 ---
-title: "Bead Series No 3"
+title: "Bead Series No. 3"
 date: 2022-09-09T11:50:46-07:00
-draft: true
+draft: false
 cover: "/images/bead-portrait-3.jpg"
 coverAlt: "Bead Portrait on Altoid Tin No. 3"
 ---

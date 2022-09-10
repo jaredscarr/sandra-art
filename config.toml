@@ -27,7 +27,7 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "sandra.art"
+    title = "sandra | creative"
     subtitle = "Creations and experiments in several mediums"
     keywords = ""
     copyright = ""
@@ -44,7 +44,7 @@ paginate = 5
     # lastModDisplay = ""
 
     [languages.en.params.logo]
-      logoText = "sandra.art"
+      logoText = "sandra | creative"
       logoHomeLink = "/"
     # or
     #

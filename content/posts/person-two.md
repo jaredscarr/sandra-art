@@ -6,4 +6,4 @@ cover: "/images/person-2.jpg"
 coverAlt: "Person with with hat with ear covers."
 ---
 
-A paper-mache person with the addition of a hat.
+A paper-mache person with with a different style hat.

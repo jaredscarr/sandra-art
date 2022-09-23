@@ -1,7 +1,7 @@
 ---
 title: "Person Six"
-date: 2022-09-21T11:37:11-07:00
-draft: true
+date: 2022-09-22T11:37:11-07:00
+draft: false
 cover: "/images/person-6.jpg"
 coverAlt: "Paper-mache person with fuzzy hat, tucked in shirt, and grey pants."
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Person Nine"
-date: 2022-09-23T08:43:47-07:00
-draft: true
+date: 2022-09-26T08:43:47-07:00
+draft: false
 cover: "/images/person-9.jpg"
 coverAlt: "Paper-mache person with bald titled head, pie lattice pants."
 ---

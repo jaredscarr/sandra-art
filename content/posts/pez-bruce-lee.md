@@ -2,6 +2,7 @@
 title: "Pez Bruce Lee"
 date: 2022-09-14T13:13:14-07:00
 draft: false
+hideReadMore: true
 cover: "/images/pez-bruce-lee.jpg"
 coverAlt: "Bruce Lee pez container with found objects glued onto it."
 ---

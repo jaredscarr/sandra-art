@@ -2,6 +2,7 @@
 title: "Leopord Slug"
 date: 2022-10-02T14:15:58-07:00
 draft: false
+hideReadMore: true
 cover: "/images/leopord-slug.jpg"
 coverAlt: "Paper-mache leopord slug."
 ---

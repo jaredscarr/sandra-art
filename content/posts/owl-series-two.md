@@ -2,6 +2,7 @@
 title: "Owl Series Two"
 date: 2022-10-05T16:54:32-07:00
 draft: false
+hideReadMore: true
 cover: "/images/small-owl-2.jpg"
 coverAlt: "Paper-mache small owl shape."
 ---

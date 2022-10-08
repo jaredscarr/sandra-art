@@ -2,6 +2,7 @@
 title: "Family Dog"
 date: 2022-09-12T00:02:32-07:00
 draft: false
+hideReadMore: true
 cover: "/images/dog.jpg"
 coverAlt: "Roy the Bulldog"
 ---

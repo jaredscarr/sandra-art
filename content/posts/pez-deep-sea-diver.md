@@ -2,6 +2,7 @@
 title: "Pez Deep Sea Diver"
 date: 2022-09-15T13:17:43-07:00
 draft: false
+hideReadMore: true
 cover: "/images/pez-unknown.jpg"
 coverAlt: "Pez container with collected objects glued to it."
 ---

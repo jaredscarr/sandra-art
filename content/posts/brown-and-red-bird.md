@@ -2,6 +2,7 @@
 title: "Brown and Red Bird"
 date: 2022-09-27T08:27:06-07:00
 draft: false
+hideReadMore: true
 cover: "/images/bird-brown-red.jpg"
 coverAlt: "Brown and red chested bird."
 ---

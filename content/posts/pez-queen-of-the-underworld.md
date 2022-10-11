@@ -2,7 +2,6 @@
 title: "Pez Queen of the Underworld"
 date: 2022-09-16T10:49:10-07:00
 draft: false
-hideReadMore: true
 cover: "/images/pez-queen-of-the-underworld.jpg"
 coverAlt: "Pez container with collected objects glued to it."
 ---

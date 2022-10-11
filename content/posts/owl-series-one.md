@@ -2,7 +2,6 @@
 title: "Owl Series One"
 date: 2022-10-03T16:27:27-07:00
 draft: false
-hideReadMore: true
 cover: "/images/small-owl.jpg"
 coverAlt: "Paper-mache small owl shape."
 ---

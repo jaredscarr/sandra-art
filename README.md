@@ -1,3 +1,5 @@
-# Another Blog
+# [sandracreative.com](https://www.sandracreateive.com)
 
-A blog built with the Hugo framework to showcase an artists work.
+## About
+
+Built with the Hugo framework to showcase an artists work and experiments.

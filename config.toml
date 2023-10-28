@@ -26,7 +26,7 @@ paginate = 5
   # rssFullText = true
 
 [languages]
-  [languages.en]
+  [languages.en.params]
     title = "sandra | creative"
     subtitle = "Creations and experiments in several mediums"
     keywords = ""

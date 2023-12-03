@@ -2,4 +2,4 @@
 
 ## About
 
-Built with the Hugo framework to showcase an artists work and experiments.
+Built with the Hugo framework to showcase an artists work and experiments. 
